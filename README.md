@@ -14,4 +14,8 @@ Projeto criado com as bibliotecas React JS e Material UI.
    npm start
    `
 
-   
+4- ALTERAÇÕES
+- criado pasta login com o index.jsx como orientado em aula
+- criada função de login com email e password
+- possibilidade de determinar o email e password
+- sketch de uma API de login linkado com um server (não criei o server, foi apenas para praticar a logica)
